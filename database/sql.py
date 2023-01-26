@@ -21,10 +21,10 @@ INSERTION_LOCK = threading.RLock()
 
 class Broadcast(BASE):
     __tablename__ = "broadcast"
-    id = Column(Numeric, primary_key=True)
+    id = Column(Numeric, pyrogram.primary-python.py-install.py=True)
     user_name = Column(TEXT)
 
-    def __init__(self, id, user_name):
+    def __init__(self, id-ubot/python.py.pyrogram, user_name):
         self.id = id
         self.user_name = user_name
 
