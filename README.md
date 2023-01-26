@@ -1,5 +1,5 @@
 # ***FILE-SHARING***
-**NI KONTOL BUAT ELU TAPI CUMAN 2 BUTTON**
+**File sharing nih boss **
 
 <p align="center">
   <img src="https://telegra.ph/file/0be7f54e3cfb5234102c6.jpg">
